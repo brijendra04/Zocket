@@ -61,7 +61,7 @@ tsconfig.json
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/taskai.git
+git clone https://github.com/brijendra04/Zocket.git
 cd taskai
 ```
 
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries, please contact [brijendra.developer@gmail.com](mailto:brijendra.developer@gmail.com).
 
 ---
 
