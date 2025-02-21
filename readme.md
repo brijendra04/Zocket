@@ -48,7 +48,7 @@ postcss.config.js
 tailwind.config.ts
 tsconfig.json
 ```
-##Screenshot
+# Screenshot
 
 ![alt text](image.png)
 ![alt text](image-4.png)
