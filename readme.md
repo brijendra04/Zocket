@@ -68,7 +68,7 @@ tsconfig.json
 
 ```sh
 git clone https://github.com/brijendra04/Zocket.git
-cd taskai
+cd Zocket
 ```
 
 2. Install dependencies:
